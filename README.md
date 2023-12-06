@@ -23,10 +23,10 @@ My estimate is: 1930. -> [e^7.56 -> 1929.82962346]
 This was derived from the first linear model I had generated from the session as the intercept (7.56 – rounded to two decimal places) which I then raised to the power of e, since as I mentioned I had used the linearised equation, so I had to undo that. I then found that this seems to roughly match what I see in the graph.
 
 - <i>r</i> : To determine the growth rate, we used the estimate of t from our ANOVA model. This is because this is showing the gradient of the graph, which tells us about how fast the bacteria are dividing at.
- My estimate is: 0.0301937.
+My estimate is: 0.0301937.
 
 - <i>K</i> : Finally, this is the carrying capacity; this is determined by when the line plateaus. This is where there are enough resources in an ecosystem to sustain the population and there is sufficient density dependent regulation so this displays the maximum population size that can be supported. However, in some populations, this will be just before the plateau due to pre-existing ecological constraints and we can see this in the exemplar semi-log plot provided during the session. This is because the population already begins to reduce growth rate by that point.
-- 
+
 However, this can be determined more accurately by using the intercept from the second linearised model. This would provide a more accurate K value than just reading the plateau and could be more reproducible.
 
 My estimate is: 1000000000.
