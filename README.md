@@ -47,3 +47,6 @@ There are many other density dependence factors that could affect this: for exam
 Therefore, in the logistic model, we reach a population equilibrium, which the carrying capacity facilitates. This is what creates the characteristic sigmoidal shape. Understanding this model is important to understand bacterial interactions.
 
 ## Question 3
+![CAPTION](https://github.com/1065094/logistic_growth/blob/2b70b763cddd1b9ed0dc76217887689a061b02fb/exponloggraph.png)
+This is my graph.
+I attempted to superimpose both models onto each other so it would be easier to compare but due to the large difference in the y-axis this was not possible without rescaling which not make it completely true, hence why they are displayed side by side instead.
